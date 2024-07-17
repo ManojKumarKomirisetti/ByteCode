@@ -1,7 +1,7 @@
 /*12) Write a Java program to determine the sign of a given number
  (positive, negative, or zero) using the ternary operator? */
 import java.util.*;
-class Ternary_Opp1
+class Ternary_Opp1_Sign
  {
      public static void main(String Args[])
      {

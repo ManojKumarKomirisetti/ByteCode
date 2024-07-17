@@ -1,5 +1,6 @@
 
-//Write a program to calculate the perimeter of a triangle having sides of length 2,3 and 5 units.
+/*If the marks of Robert in three subjects are 78,45 and 62 respectively (each out of 100 ), 
+write a program to calculate his total marks and percentage marks.*/
 
 
 import java.lang.*;

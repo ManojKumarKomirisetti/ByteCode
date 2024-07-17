@@ -1,6 +1,6 @@
 /*1.Write a program to find maximum between two numbers?*/
 import java.util.*;
-class Conditional_Sta_ab
+class Conditional_Sta_ab_Max
  {
      public static void main(String Args[])
      {

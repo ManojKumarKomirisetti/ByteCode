@@ -1,4 +1,4 @@
-/*Greatest of four numbers using nested ternary operator*/
+/*2.Greatest of four numbers using nested ternary operator*/
 import java.util.*;
 class GreatOf4  
  {
