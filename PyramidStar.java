@@ -2,10 +2,10 @@ class PyramidStar
 {
     public static void main(String []args)
     {
-            int rows = 5,k=0;
+            int rows = 5,k=0,z = rows;
             for(int i = 0;i<rows;i++)
             {
-                    for( k =rows;k>0;k--)
+                    for( k =z;k>0;k--)
                     {
                         System.out.print(" ");
 
@@ -15,7 +15,7 @@ class PyramidStar
                         System.out.print("*"+" ");
                 }
                 System.out.println();
-                k+=1;
+                z-= 1;
             }
     }
 }
