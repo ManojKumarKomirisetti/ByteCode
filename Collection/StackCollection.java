@@ -1,22 +1,22 @@
 import java.util.*;
-class VectorCollection
+class StackCollection
 {
     public static void main(String ar[])
     {
-       Vector<String> vect = new Vector<String>();
-       /*  vect.add("Manoj");
-        vect.add("Uday");
-        vect.add("Bhaskar");
-        vect.add("Ganesh");
-        vect.add("Aravind");*/
+       Stack<String> stk = new Stack<String>();
+       /*  stk.push("Manoj");
+        stk.push("Uday");
+       stk.push("Bhaskar");
+        stk.push("Ganesh");
+        stk.push("Aravind");*/
 int j = 1,n=1;
  Scanner sc = new Scanner(System.in);
  for(int i = 0;i<n;i++)
  {
-    System.out.println("Enter ArrayList Strings : ");
+    System.out.println("Enter Stack Strings : ");
 
     String S = sc.nextLine();
-    vect.add(S);
+    stk.push(S);
     System.out.println("Want to add new Objects Press 'Yes' else 'No' :");
     String Choose = sc.nextLine();
     if(Choose.equals("Yes"))
@@ -25,7 +25,9 @@ int j = 1,n=1;
     }
 
  } 
-        Iterator<String> it = vect.iterator();
+ System.out.println(stk.peek());
+ stk.pop();
+        Iterator<String> it = stk.iterator();
         while(it.hasNext())
         {
             System.out.println("ArrayList Strings "+j+" : "+it.next());
