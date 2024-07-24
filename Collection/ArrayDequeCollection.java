@@ -7,6 +7,7 @@ class ArrayDequeCollection
         Deque<String> que = new ArrayDeque<String>();
         que.add("Manoj");
         que.add("Uday");
+        que.add("Ganesh");
         for(String Str : que)
         {
             System.out.println(Str);
