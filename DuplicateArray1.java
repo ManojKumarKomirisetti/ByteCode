@@ -5,14 +5,14 @@ class DuplicateArray1
     {
         Scanner sc = new Scanner(System.in);
           int a[] = new int[10];
-        int b[] = new int[10];
+          int b[] = new int[10];
 System.out.println("Enter Array Elemnts:");
         for(int i = 0;i<a.length;i++)
         {
             a[i] = sc.nextInt();
             b[i] = 0 ;
         }
-
+sc.close();
 
         for(int i = 0; i<a.length;i++)
         {
