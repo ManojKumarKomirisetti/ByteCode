@@ -13,7 +13,7 @@ Complete the divisibleSumPairs function in the editor below.
 
 divisibleSumPairs has the following parameter(s):
 
-int n: the length of array 
+int n: the length of array
 int ar[n]: an array of integers
 int k: the integer divisor
 Returns
@@ -34,6 +34,7 @@ STDIN           Function
 1 3 2 6 1 2     ar = [1, 3, 2, 6, 1, 2]
 
 Output: 5
+
 */
 import java.util.*;
 class DivisibleSum
