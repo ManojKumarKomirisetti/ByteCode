@@ -68,7 +68,10 @@ public static List<Integer> breakingRecords(List<Integer> scores) {
             List<Integer> scores = new ArrayList<Integer>();
             //[12,24,10,24]
             scores.add(12);
-            scores.add(24);scores.add(10);scores.add(24);
+            scores.add(24);
+            scores.add(10);
+            scores.add(24);
+            
             List<Integer> lit =   breakingRecords(scores);
 
             System.out.println("Countmax:"+lit.get(0));
