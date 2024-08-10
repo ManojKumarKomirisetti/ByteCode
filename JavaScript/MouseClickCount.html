@@ -1,0 +1,23 @@
+<html>
+
+<head>
+    <title>
+        Mouse Click
+    </title>
+    <script>
+        var countVar = 0;
+        
+            function clickCount()
+            {
+                    countVar += 1;
+                    document.getElementById("Parag").innerHTML = "This is the no of clicks :" + countVar; 
+            }
+
+    </script>
+</head>
+<body onclick="clickCount()">
+    <h1>Counter Variable Counts No of mouse Clicks </h1>
+    <p id = "Parag">This is Manoj</p>
+
+</body>
+</html>
