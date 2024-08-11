@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OnChange Event Demo</title>
+</head>
+<body>
+    <!-- <p>Manoj</p> -->
+    <center>
+        <select id = "options">
+            <option value="1">India</option>
+            <option value="2">Australia</option>
+            <option value="3">Zimbambue</option>
+            <option value="4">South Africa</option>
+        </select>
+    </center>
+    <center>
+        <select id = "options1" onchange="eventhandling()">
+            <option value="1">India1</option>
+            <option value="2">Australia1</option>
+            <option value="3">Zimbambue1</option>
+            <option value="4">South Africa1</option>
+        </select>
+    </center>
+    
+</body>
+<script>
+    function eventhandling()
+    {
+        alert("Option is selected");
+    }
+    document.getElementById("options").onchange = eventhandling;
+    
+</script>
+</html>

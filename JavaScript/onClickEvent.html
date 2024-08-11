@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>onClick Event</title>
+    <style>
+        p{
+            color: blue;
+        }
+        
+       #bthu {
+                color: rgb(22, 156, 111);
+                background-color: rgb(228, 228, 14);
+        }
+    </style>
+</head>
+<body>
+<p>This is an Triggereing button</p>
+<button id="bthu" type="button" onclick="clickEvent()">ONCLICK</button>    
+</body>
+<script>
+    function onCLICKEvent(){
+        alert("You clicked the button");
+    }
+    function clickEvent()
+    {
+        alert("This is clickEvent Function");
+    }
+   // document.getElementById("bthu").onclick = onCLICKEvent;
+</script>
+</html>
