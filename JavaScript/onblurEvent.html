@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OnBlur Event</title>
+    <script>
+        function onblurEvent()
+        {
+            window.alert("Please Specify Email");
+        }
+        document.getElementById("blurEvent").onblur  = onblurEvent; 
+    </script>
+</head>
+<body>
+    <p type="text">Please click below!</p>
+    <input id="Blur" type="text" onblur="onblurEvent()" placeholder="Your Email Please">
+    <div id="blurEvent"></div>
+</body>
+</html>
