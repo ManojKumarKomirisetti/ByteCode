@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ForOfLoop</title>
+</head>
+<body>
+    <p id = "ForIn">Manoj Kumar</p>
+</body>
+<script>
+    let txt = '';
+    let Person = ['Manoj','Uday','Pavan'];
+    let x;
+    for(x of Person)
+    {
+        txt += x +" ";
+    }
+    document.getElementById("ForIn").innerHTML = txt;
+</script>
+</html>
