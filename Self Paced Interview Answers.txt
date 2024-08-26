@@ -1,0 +1,76 @@
+1.Tell me about yourself.
+
+Good [morning/afternoon/evening],
+
+I am Komirisetti Manoj Kumar, and it is a pleasure to introduce myself to you. I am from Suryapet district and currently residing in Hyderabad. I recently graduated with a Bachelor of Technology in Computer Science and Engineering from SR University, achieving an aggregate of 9 CGPA.
+
+Regarding my technical skills, I am proficient in C, Core Java, and front-end technologies like HTML and CSS. I also have a good understanding of back-end technologies such as SQL and MySQL, and I am familiar with version control tools like Git and GitHub, which I have used with VS Code and Eclipse.
+
+I have completed several certifications, including Programming in Java and Database Management Systems from IIT Kharagpur through NPTEL, and Azure Fundamentals AI-900 from Microsoft.
+
+In terms of personal achievements, I was selected for the U-25 District cricket team by the Telangana Cricket Association, and I led a team of five in a capstone project.
+
+My hobbies include playing and watching cricket, which has taught me self-discipline and situational awareness. I also enjoy listening to music and cooking, which help me relax and refresh.
+
+What sets me apart as a candidate is my technical expertise combined with my commitment to continuous improvement and collaboration. I am passionate about staying updated on the latest technological advancements and constantly seek opportunities to expand my knowledge and skills. My collaborative nature and strong communication abilities enable me to thrive in team environments, where I contribute ideas, solve problems, and drive projects forward.
+
+I am particularly excited about the opportunity to [mention specific aspects of Tech Mahindra that align with your interests and career goals]. I am confident that my background in Computer Science, coupled with my enthusiasm for learning and growth, makes me a valuable asset to your organization.
+
+Thank you for considering my application. I look forward to discussing how my experiences and skills align with your needs and how I can contribute to the success of [Company Name]. I am eager to potentially join your esteemed team and grow alongside the organization.
+
+Thank you.
+
+
+2.Why should we hire you?
+
+You should hire me because, my technical and communication skills are very much relevant to the given job description and i do also have hands on experience in required skills and i have tested myself in them through my internship along with them my personal skills like problem solving , adaptability and hardworking  helps me to thrive towards the opportunity and the organization principles suits me more to contribute freely and I am very excited to join your esteemed team to contribute to the organization growth which also helps to grow personally.
+
+3.Why do you want to work for our company?
+
+I want to work for [Company Name] because of its great work culture, values, and reputation. I'm impressed by its financial stability and hands-on projects. I believe this company offers job security, growth opportunities, and respect for employees' skills, making it a great fit for me.
+
+[I personally always want to work for this company because of it s work ethic culture and core values and principles and because of its reputation and financial status and hands on projects . these reasons make me comfortable to work and gives me the belief of job security and  enough opportunities and respect for my skills.
+
+4. What are your strengths and weaknesses?
+
+My strengths are drawing motivation from hard work and discipline, focusing on the root cause of problems, and continuously improving myself. I strive for excellence, but my pursuit of perfection can slow me down, which is an area for growth where I'm working to balance high standards with efficiency and timely delivery.
+
+[My biggest strength is  to draw motivation from my hard work and discipline . Another is I always sticks to the basic and solves the root cause of the problem. and I always focus on improving myself day by day.
+
+There aren't any weaknesses for me .  but one thing that puts me in a shell is because of my perfection and making things clear and perfecting them. this makes me slow down a bit but now I am working on it.]
+
+5. Can you describe a challenging situation you faced and how you handled it?
+
+In my recent project, I faced a challenging situation (S) where I had to lead a team of 5 members to complete a major project within a tight deadline. My task (T) was to distribute work effectively, monitor progress, provide knowledge transfer, and ensure timely completion. I took action (A) by delegating tasks based on individual strengths, conducting regular meetings, offering guidance and support, and performing thorough debugging. As a result (R), we successfully completed the project on time, and I gained valuable experience in leadership, communication, and project management.
+
+{
+In my last project, I led a team of 5 to meet a tight deadline (S). My job was to assign tasks, track progress, and ensure completion (T). I did this by giving each team member work that fit their skills, holding regular meetings, and helping them when needed (A). We finished the project on time, and I learned a lot about leading, communicating, and managing projects (R).
+}
+
+[The most challenging part in my recent time was to complete my major project with a team of 5 members where I am the team lead. Th difficult part of it is to distribute work to the people and make them feel free to complete the work , monitoring them , giving them knowledge transfer and debugging the code and  making sure that the project gets completed with in the dead line. But I have enjoyed that phase and it had thought me a lot.]
+
+6. Where do you see yourself in five years?
+
+In five years, I see myself as a Experienced professional at Company Name, taking on more responsibilities and helping my team succeed. I'll keep building my skills, embracing new challenges, and growing as a person. My goal is to triple my expertise and become an even better individual, making a bigger impact at work and beyond.
+
+7. Do you have any questions for us?
+
+1. What are the biggest challenges facing the team or department right now, and how do you see this role contributing to solving them?
+
+2. Can you tell me more about the company culture and values?
+
+3. How does this role fit into the overall organizational structure, and who would I be working with closely?
+
+4. What opportunities are there for growth and professional development within the company?
+
+5. What are the short-term and long-term goals for this position, and how will success be measured?
+
+6. How does the company approach mentorship and supporting new hires?
+
+7. What is the typical career path for someone in this role, and how have past employees in this role progressed?
+
+8. Are there any exciting projects or initiatives on the horizon that I can contribute to?
+
+9. How does the company prioritize work-life balance, and what benefits or programs support this?
+
+10. What is the next step in the process, and when can I expect to hear back from you?
