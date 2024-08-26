@@ -1,14 +1,29 @@
 import java.util.*;
-public class StoringValuesInMultipleObjects
+public class StoringValuesInMultipleObjects extends Object
  {
-    static int empid = 0;
-    static String name = null;
-    static int Salary  = 0;
+   static int i = 0;
+    int empid = 0;
+     String name = null;
+     int Salary  = 0;
+     static StoringValuesInMultipleObjects obj;
+     static Object Array[];
+    StoringValuesInMultipleObjects(int empid,String name, int Salary)
+    {
+        // this.empid = empid;
+        // this.name = name;
+        // this.Salary = Salary;
+        Array[i]
+
+    }
     public static void main(String [] args)
  {
     Scanner sc = new Scanner(System.in);
-    int i = 3;
-    while(i>=0)
+    
+     int empid = 0;
+     String name = null;
+     int Salary  = 0;
+
+    while(i<3)
     {
          empid = 0;
          name = null;
@@ -20,6 +35,7 @@ public class StoringValuesInMultipleObjects
     name = sc.nextLine();
     System.out.println("Enter Employee Salary:");
     Salary = sc.nextInt();
+    obj = new StoringValuesInMultipleObjects(empid, name, Salary);
     i++;
     }
     sc.close();
