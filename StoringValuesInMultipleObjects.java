@@ -9,10 +9,10 @@ public class StoringValuesInMultipleObjects extends Object
      static Object Array[];
     StoringValuesInMultipleObjects(int empid,String name, int Salary)
     {
-        // this.empid = empid;
-        // this.name = name;
-        // this.Salary = Salary;
-        Array[i]
+        this.empid = empid;
+        this.name = name;
+        this.Salary = Salary;
+        
 
     }
     public static void main(String [] args)
@@ -36,6 +36,7 @@ public class StoringValuesInMultipleObjects extends Object
     System.out.println("Enter Employee Salary:");
     Salary = sc.nextInt();
     obj = new StoringValuesInMultipleObjects(empid, name, Salary);
+    Array[i] = obj;
     i++;
     }
     sc.close();
