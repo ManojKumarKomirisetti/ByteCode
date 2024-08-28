@@ -1,6 +1,7 @@
 import java.util.*;
 //Manoj
-//Kumar//
+//Kumar
+//
 class ArrListCollection
 {
     public static void main(String ar[])
