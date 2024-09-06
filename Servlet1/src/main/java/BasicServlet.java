@@ -20,7 +20,7 @@ public class BasicServlet extends HttpServlet {
 	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
 		PrintWriter out=response.getWriter();
-		out.println("BasicServlet");
+		out.println("BasicServlet Manoj");
 	}
 
 }
